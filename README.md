@@ -1,2 +1,2 @@
 # dapps-etherjs
-sample frontend with etherjs
+A Sample frontend with etherjs
